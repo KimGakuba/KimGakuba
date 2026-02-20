@@ -1,8 +1,7 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+NGABONZIZA+Kim+Gakuba;Backend+Engineer;Data+Engineer;Full-Stack+Developer+(React+%26+Node.js);Certified+Network+Operator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+NGABONZIZA+Kim+Gakuba;Welcome+to+my+GitHub+Profile;Software+Security+Engineer;Backend+Developer;Data+Engineer;Full-Stack+Developer+(React+%26+Node.js);Certified+Network+Operator" />
 </p>
-
 ---
 
 <h3 align="center">
