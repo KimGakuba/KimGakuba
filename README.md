@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+NGABONZIZA+Kim+Gakuba;Backend+Engineer+%7C+Data+Engineer;Full-Stack+Developer+(React+%26+Node.js);Building+Secure+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=0AFFEF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+NGABONZIZA+Kim+Gakuba;Welcome+to+my+GitHub+Profile;Software+Security+Engineer;Backend+Developer;Data+Engineer;Full-Stack+Developer+(React+%26+Node.js);Certified+Network+Operator" />
 </p>
 
 <h3 align="center">
@@ -11,9 +11,6 @@
   <em>Crafting secure, scalable, and high-performance systems — from backend architecture to data pipelines.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KimGakuba&label=Profile+Views&color=0AFFEF&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -71,21 +68,8 @@ I'm a backend-focused software engineer with a strong interest in distributed sy
 
 ## 📊 GitHub Stats
 
-<!-- 
-  ⚠️ FIX: If stats are stuck/cached, self-host github-readme-stats on your own Vercel:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Then replace the domain below with your own Vercel URL.
--->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimGakuba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGakuba&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <!-- Using demolab — more reliable than herokuapp -->
-  <img src="https://streak-stats.demolab.com?user=KimGakuba&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=KimGakuba&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=Africa%2FKigali" />
 </p>
 
 ---
